@@ -1,2 +1,2 @@
 # ISYS-with-a-Y
-Team A repository
+Team A repository: Aaron Tsai, Andrew Raul, Jonathan Terada, Vickie Lam
