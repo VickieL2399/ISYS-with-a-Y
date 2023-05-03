@@ -7,6 +7,8 @@ Link to report work file:
   
  Link to Project Summary Report: 
  https://docs.google.com/document/d/1yrFwagRWqFphQ_TtkoBDcPi9CroSdprvA9usWaePAv8/edit?usp=sharing 
+ 
+ https://public.tableau.com/app/profile/aaron.tsai6019/viz/Question3ISYS-with-a-Y/Sheet1?publish=yes
 
 Questions:
 1) What is the most popular car listing on this platform?
