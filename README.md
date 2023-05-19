@@ -14,11 +14,3 @@ Link to Project Summary Report:
  
 Link to Tableau geographical map for question 3:
  https://public.tableau.com/app/profile/aaron.tsai6019/viz/Question3ISYS-with-a-Y/Sheet1?publish=yes
-
-Questions:
-1)What is the most popular car listing on this platform?
-2)Is there a premium for dealers selling their cars on this platform compared to private sellers?
-3)Where do we find the most used car or new car listing from this platform?
-4)TBD
-5)How highly are different vehicle brands rated?
-6)TBD
